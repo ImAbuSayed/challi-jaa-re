@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Challi Jaa Re
+
+This log tracks the cryptographic history and versioning for the song **Challi Jaa Re** (challi-jaa-re).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:00:25.153852 | `v1` | `382a0d0d5e2ae6fd8aba1acd763e27157fe9168201000c219d4dd387bdf45013` | `f2e63a05556625871b44c19d66ba43dd53df871cb5cce057b890831c9b2bd05b` | `2026-05-20_challi-jaa-re-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
