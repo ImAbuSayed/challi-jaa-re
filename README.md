@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/challi-jaa-re/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Challi Jaa Re](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/challi-jaa-re/) |
+| **Get License** | [Obtain a Music License for Challi Jaa Re](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/challi-jaa-re/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera feel the tension,
+> Challi jaa re tu door without permission.
+> Dil sada lutteya tu pure perfection,
+> Mera hosh udaunda tera dark obsession.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
